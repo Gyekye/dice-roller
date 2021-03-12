@@ -13,6 +13,7 @@ class MyApp extends StatelessWidget {
           backgroundColor: Colors.red,
           title: Text('Dice Roller'),
           centerTitle: true,
+          elevation: 0.0,
         )
       ),
     );
